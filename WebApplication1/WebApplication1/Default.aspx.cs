@@ -14,6 +14,7 @@ namespace WebApplication1
 			int i;
 			string test;
 			string test1;
+			string test2;
 		}
 	}
 }
